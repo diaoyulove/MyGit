@@ -6,6 +6,8 @@ public class Hello {
 		System.out.println("hello Git");
 		
 		System.out.println("令狐冲提交");
+		
+		System.out.println("this is new branch");
 	}
 	
 }
